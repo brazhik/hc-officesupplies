@@ -1,7 +1,7 @@
 {
   "name": "hc-officesupplies",
   "version": "1.0.0",
-  "description": "A simple CAP project.",
+  "description": "A simple CAP project",
   "repository": "<Add your repository here>",
   "license": "UNLICENSED",
   "private": true,
@@ -22,7 +22,7 @@
     "profile": "with-mtx-sidecar",
     "requires": {
       "multitenancy": true,
-      "db": "hana"
+      "db": "sqlite"
     }
   }
 }
