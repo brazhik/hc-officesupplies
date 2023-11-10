@@ -19,10 +19,13 @@
     "start": "cds-serve"
   },
   "cds": {
-    "profile": "with-mtx-sidecar",
+    "hana": {
+      "deploy-format": "hdbtable"
+    },
     "requires": {
-      "multitenancy": true,
-      "db": "sqlite"
+      "db": {
+        "kind": "hana"
+      }
     }
   }
 }
