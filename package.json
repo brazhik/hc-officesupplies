@@ -2,7 +2,7 @@
   "name": "hc-officesupplies",
   "version": "1.0.0",
   "description": "A simple CAP project",
-  "repository": "<Add your repository here>",
+  "repository": "https://github.com/brazhik/hc-officesupplies",
   "license": "UNLICENSED",
   "private": true,
   "dependencies": {
